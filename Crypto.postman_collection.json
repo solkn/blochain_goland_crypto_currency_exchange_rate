@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "10eb255d-7b52-4405-845c-caca34044868",
+		"name": "Crypto",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9497502"
+	},
+	"item": [
+		{
+			"name": "crypto_currency",
+			"item": [
+				{
+					"name": "AddCryptoCurrencyExchangeRate",
+					"request": {
+						"method": "POST",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateCryptoCurrencyExchangeRate",
+					"request": {
+						"method": "PUT",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "GetAllCryptoCurrencyExchangeRates",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "GetCryptoToAllExchangeRates",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
